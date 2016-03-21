@@ -9,7 +9,7 @@ module.exports = {
     uri: 'mongodb://localhost/backoffice-dev'
   },
 
-  // Sequelize connection opions
+  // Sequelize connection options
   sequelize: {
     uri: 'sqlite://',
     options: {
